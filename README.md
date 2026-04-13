@@ -179,8 +179,8 @@ from PNG files in <b>brain_t2</b> and <b>segmentation_mask</b> folders in half o
 </table>
 <br>
 For simplicity, we excluded all empty black masks and their corresponding images to generate our PNG dataset,
-which were irrelevant to train our segmentation model, and upscaled all images and masks to 512x512 pixels from t
-he orinal 240x240 pixels.
+which were irrelevant to train our segmentation model, and upscaled all images and masks to 512x512 pixels from 
+the original 240x240 pixels.
 <br>
 <h3>2.3 Train Image Mask Samples</h3>
 <b>Train_images_sample</b><br>
