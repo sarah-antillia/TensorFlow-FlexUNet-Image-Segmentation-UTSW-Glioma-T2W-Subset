@@ -57,7 +57,7 @@ For more information of <b>UTSW Glioma 3D MRI</b> datasset, please refer to
 UTSW-Glioma | The University of Texas Southwestern Glioma MRI dataset with molecular marker characterization and segmentations
 </b></a> on <b>The Cancer Imaging Archive (TCIA)</b>.
 <br><br> 
-The following explanation was taken from the above web site.<br><br>
+The following explanation was taken from the above kaggle web site.<br><br>
 <b>About Dataset</b><br>
 <b>UTSW-Glioma 2D Selected Subset: Technical Specifications</b><br>
 <b>1. Overview</b><br>
@@ -95,7 +95,7 @@ To ensure 100% coverage, the segmentation_mask folder uses a priority-based sele
 <tr><th>Value</th><th>Label Name</th><th>Anatomy</th>
 </tr>
 <tr>
-<td>0</td><td>Backgroud</td><td>Non-tumor tissue / Air</td>
+<td>0</td><td>Background</td><td>Non-tumor tissue / Air</td>
 </tr>
 <tr>
 <td>50</td><td>Label 1</td><td>NCR(Necrotic tumor core)</td>
